@@ -1,0 +1,10 @@
+Total test methods: 30
+ProductServiceTest: 12
+OrderServiceTest: 8
+AuthServiceTest: 8
+SalesManagementIntegrationTest: 2
+Parameterized test executions: 2 blank-name values
+
+Run: mvn clean verify
+Coverage: target/site/jacoco/index.html
+CI: .github/workflows/maven.yml
